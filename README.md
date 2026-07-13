@@ -69,11 +69,19 @@ This project builds three interactive Tableau dashboards on a dataset of **550,0
 ├── Used_Car_Analytics.twbx     # Tableau packaged workbook (all 3 dashboards)
 ├── README.md                   # Project documentation
 └── screenshots/
-    ├── <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 35" src="https://github.com/user-attachments/assets/866a0a9b-736c-469d-a738-fec6f8a45255" />
+    ## 📸 Dashboard Screenshots
 
-    ├── <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 43" src="https://github.com/user-attachments/assets/560f4cf2-dfa4-437b-bf3f-05a8f1bc0fc4" />
+### Dashboard 1 — Sales Overview
+<img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 35" src="https://github.com/user-attachments/assets/c5bff02d-b381-4d3d-8ba0-6751b942bc13" />
 
-    └── <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 54" src="https://github.com/user-attachments/assets/bd7eec20-af86-4d8c-9fcd-348ea8ec96cf" />
+
+### Dashboard 2 — Price Factors  
+<img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 43" src="https://github.com/user-attachments/assets/88366836-cbdf-4a91-b8ed-9cc498f83cb5" />
+
+
+### Dashboard 3 — Market Movers
+<img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 54" src="https://github.com/user-attachments/assets/df4f1bbb-7b1a-4849-843d-4ce8967dd47e" />
+
 
 ```
 
