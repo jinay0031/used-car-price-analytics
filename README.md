@@ -69,9 +69,12 @@ This project builds three interactive Tableau dashboards on a dataset of **550,0
 ├── Used_Car_Analytics.twbx     # Tableau packaged workbook (all 3 dashboards)
 ├── README.md                   # Project documentation
 └── screenshots/
-    ├── dashboard1_overview.png
-    ├── dashboard2_price_factors.png
-    └── dashboard3_market_movers.png
+    ├── <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 35" src="https://github.com/user-attachments/assets/866a0a9b-736c-469d-a738-fec6f8a45255" />
+
+    ├── <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 43" src="https://github.com/user-attachments/assets/560f4cf2-dfa4-437b-bf3f-05a8f1bc0fc4" />
+
+    └── <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 54" src="https://github.com/user-attachments/assets/bd7eec20-af86-4d8c-9fcd-348ea8ec96cf" />
+
 ```
 
 ---
