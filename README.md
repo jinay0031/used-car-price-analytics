@@ -71,6 +71,7 @@ This project builds three interactive Tableau dashboards on a dataset of **550,0
 └── screenshots/
     ## 📸 Dashboard Screenshots
 
+```
 ### Dashboard 1 — Sales Overview
 <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 35" src="https://github.com/user-attachments/assets/c5bff02d-b381-4d3d-8ba0-6751b942bc13" />
 
@@ -83,7 +84,6 @@ This project builds three interactive Tableau dashboards on a dataset of **550,0
 <img width="1470" height="956" alt="Screenshot 2026-07-13 at 15 37 54" src="https://github.com/user-attachments/assets/df4f1bbb-7b1a-4849-843d-4ce8967dd47e" />
 
 
-```
 
 ---
 
